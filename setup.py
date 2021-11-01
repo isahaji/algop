@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="algop",
-    version="0.0.5",
+    version="0.0.6",
     author="Isa Haji",
     author_email="isa@isahaji.com",
     description="Common Algorithms",
