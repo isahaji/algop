@@ -1,7 +1,7 @@
 LICENSE
 README.md
 pyproject.toml
-setup.cfg
+setup.py
 src/algop/__init__.py
 src/algop.egg-info/PKG-INFO
 src/algop.egg-info/SOURCES.txt
